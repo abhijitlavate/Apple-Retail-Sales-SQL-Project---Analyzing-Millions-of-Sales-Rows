@@ -1,6 +1,6 @@
 # Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows
 
-# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+#![Banner Image](Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 
 
@@ -14,7 +14,7 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 
 ![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+**Get the guided project/datasets here**: 
 
 Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
 
@@ -25,15 +25,8 @@ Here’s the shortened and improved version of the "What’s Included" and "Why 
 - **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
 - **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
 - **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
-- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
 
-### Why Choose This Project?
-- **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
-- **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
-- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
-- **Limited Offer**: Special price available for the **first 100 students**!
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
 ## Database Schema
 
