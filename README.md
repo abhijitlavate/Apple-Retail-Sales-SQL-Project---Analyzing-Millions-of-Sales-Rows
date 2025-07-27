@@ -1,6 +1,6 @@
 # Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows
 
-#( https://www.shutterstock.com/image-illustration/pune-india-february-19-2024-apple-2427127541) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 
 
